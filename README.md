@@ -86,7 +86,7 @@ Powered by OpenAI or HuggingFace, this bot answers natural language queries like
     ```
 3.  **Install dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install -r scripts_requirements.txt
     ```
 4.  **Set up PostgreSQL and .env file**:
     ```bash
